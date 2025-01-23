@@ -3,8 +3,8 @@ Cute, but not just cute
 
 ---
 
-This is a brand - new modern programming language. The goal is to maximize performance while ensuring ease of use and security.
+This is a brand-new modern programming language. The goal is to maximize performance while ensuring ease of use and security.
 
-Currently, the compiler is still in the development stage and there is no distribution version.
+The compiler is still in the development stage and there is no distribution version.
 
-This project is created and maintained by [Team OblivionOcean](https://github.com/OblivionOcean), and this programming language is designed by [Fgaoxing](https://github.com/Fgaoxing) and the compiler is also developed by him.
+This project is created and maintained by [Team OblivionOcean](https://github.com/OblivionOcean). This programming language was designed by [Fgaoxing](https://github.com/Fgaoxing), and he also developed the compiler.
